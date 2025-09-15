@@ -57,6 +57,8 @@
     font-weight: bold;
 }
 .names{
+    text-decoration: none;
+    color: #0f1111;
     padding-left: 160px
 }
 .qa{ 
