@@ -5,16 +5,16 @@
 }
 
 .main{
-     width: 100%;
+     /* width: 100%;
     background-image: url("https://images.unsplash.com/photo-1716467891152-1b43a96de578?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bWFsZSUyMGNhdHxlbnwwfHwwfHx8MA%3D%3D");
     background-size: cover;
     background-repeat: no-repeat;
-    height: 900px; 
+    height: 900px;  */
 }
 
 .nav {
     background-color: #0f1111;
-    height: 50px;
+    height: 60px;
     padding-left: 50px ;
     padding-top: 10px ;
 }
@@ -49,6 +49,7 @@
 /*  */
 .container{
     margin-top: 10px;
+    padding-left: 60px;
 }
 #Categories{
     margin-left: 3px;
